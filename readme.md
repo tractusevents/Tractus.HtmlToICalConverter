@@ -17,3 +17,6 @@ Creates an ICS from a Markdown file.
 
 `.\Tractus.HtmlToICalConverter.exe -md -s="Test Event" -f="test.md" -d="2024-08-24 12:00" -l=55 -w="Zoom - See Details" -alarm=45 -o="testevent.ics"`
 
+### Download
+
+Grab the latest release [from the releases page](https://github.com/tractusevents/Tractus.HtmlToICalConverter/releases/).
